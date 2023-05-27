@@ -2,4 +2,4 @@ function newUser(name) {
     return `Halo ${name}`
 }
 
-console.log(newUser('Alia Dewanto'))
+console.log(newUser('Subekti Bimo Wicaksono'))
