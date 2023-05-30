@@ -1,5 +1,6 @@
 const importedFile = require('./lailaar.js');
 
+console.log(importedFile.bangun_datar); 
 console.log(importedFile.LuasPersegi(20)); 
 console.log(importedFile.KelilingPersegi(5)); 
 console.log(importedFile.LuasLingkaran(14)); 
