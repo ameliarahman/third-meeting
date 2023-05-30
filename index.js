@@ -1,5 +1,13 @@
-const newObj = require('./newFile')
-const { newFunctionNewFile2, newVariable3 } = require('./newFile')
+const importedFile = require('./lailaar.js');
+
+console.log(importedFile.bangun_datar); 
+console.log(importedFile.LuasPersegi(20)); 
+console.log(importedFile.KelilingPersegi(5)); 
+console.log(importedFile.LuasLingkaran(14)); 
+
+
+// const newObj = require('./newFile')
+// const { newFunctionNewFile2, newVariable3 } = require('./newFile')
 
 // console.log(newFunctionFromNewFile1(1, 2))
 
@@ -11,9 +19,9 @@ const { newFunctionNewFile2, newVariable3 } = require('./newFile')
 // console.log(newFile.newVariable4, 'THIS IS NEW VARIABLE 4')
 // console.log(newVar)
 
-console.log(newObj)
-console.log(newFunctionNewFile2(1, 2), 'THIS IS FROM NEW FILE')
-console.log(newVariable3)
+// console.log(newObj)
+// console.log(newFunctionNewFile2(1, 2), 'THIS IS FROM NEW FILE')
+// console.log(newVariable3)
 
 // require('./newFolder/user')
 
