@@ -4,7 +4,7 @@ const { fungsiSatu, fungsiDua, variabel } = require('./asror');
 // Memanggil fungsi pertama
 fungsiSatu(); // Output: Ini adalah fungsi satu.
 
-// Memanggil fungsi kedua
+// Memanggil fungsi keduagit config --global user.name "FIRST_NAME LAST_NAME"
 fungsiDua(); // Output: Ini adalah fungsi dua.
 
 // Menggunakan variabel
