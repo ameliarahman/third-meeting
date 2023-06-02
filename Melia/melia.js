@@ -1,5 +1,5 @@
 function fungsiPertama(kendaraan_roda_2) {
-    return 'Terdapat ${kendaraan_Roda_2} yaitu sepeda'
+    return 'Terdapat ${kendaraan_Roda_3} yaitu bajay'
   };
   
   function fungsiKedua(kendaraan_roda_4) {
