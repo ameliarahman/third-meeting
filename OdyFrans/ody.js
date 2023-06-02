@@ -1,11 +1,5 @@
-//ody.js
-const fungsi1 = () => {
-    // isi fungsi 1
-};
+const hp1 = 'IPhone';
+const hp2 = 'Samsung';
+const hp3 = 'Realme';
 
-const fungsi2 = () => {
-    //isi fungsi 2
-};
-
-const variabel = "nilai variable";
-export {fungsi1,fungsi2,variabel};
+module.exports = { hp1, hp2, hp3 };
