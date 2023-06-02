@@ -1,2 +1,2 @@
-const { fungsiPertama, funsiKedua, pilihan_lain } = 
+const { fungsiPertama, funsiKedua, pilihan_lain } =
 require ('./melia.js');
